@@ -38,10 +38,10 @@
 
 1. git branch updates
 2. git checkout updates
-3. 
-4.
-5. Confirmed?
-6.
+3. Added "# Hellooooooo" to infinity script
+4. git push --set-upstream origin updates
+5. git checkout main
+6. git merge updates
 7.
 8.
 9. Confirmed?
