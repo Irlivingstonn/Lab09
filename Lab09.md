@@ -36,9 +36,9 @@
 
 ## Part 3 Answers
 
-1.
-2.
-3.
+1. git branch updates
+2. git checkout updates
+3. 
 4.
 5. Confirmed?
 6.
