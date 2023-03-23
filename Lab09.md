@@ -40,9 +40,9 @@
 2. git checkout updates
 3. Added "# Hellooooooo" to infinity script
 4. git push --set-upstream origin updates
-5. git checkout main
-6. git merge updates
-7.
-8.
-9. Confirmed?
-10.
+5. Went to updates branch and saw that my edits to infinty existed in the updates branch, not in the main branch
+6. git checkout main
+7. git merge updates
+8. git push -u origin main
+9. Checked infinity script and saw the added "# Hellooooooo"
+10. git branch
